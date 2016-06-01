@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="css" type="CSS" />
+      <mapping pattern=".env-test-runner" type="Ini" />
+      <mapping pattern=".env" type="Ini" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".eslint" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="css" type="SCSS" />
+    </extensionMap>
+  </component>
+</application>
