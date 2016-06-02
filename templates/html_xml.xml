@@ -1,7 +1,0 @@
-<templateSet group="html/xml">
-  <template name="index" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;title&gt;&lt;/title&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;&quot;&gt;&#10;    &lt;script src=&quot;&quot;&gt;&lt;/script&gt;&#10;&lt;/head&gt;&#10;&#10;&lt;body&gt;&#10;&lt;/body&gt;&#10;&#10;&lt;/html&gt;" description="Insert a base index.html" toReformat="true" toShortenFQNames="false">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
